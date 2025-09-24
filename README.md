@@ -23,10 +23,10 @@ Identify and document phishing characteristics found in a suspicious email sampl
 
 | Description                        | Screenshot                                     |
 |-------------------------------------|------------------------------------------------|
-| Sample phishing email               | ![Email](screenshots/Screenshot-2025-09-23-231156.jpg) |
-| EML Analyzer verdict (malicious)    | ![Analyzer1](screenshots/Screenshot-2025-09-23-231646.jpg) |
-| Detailed message insights           | ![Analyzer2](screenshots/Screenshot-2025-09-23-231803.jpg) |
-| VirusTotal detection result         | ![VirusTotal](screenshots/Screenshot-2025-09-23-233152.jpg) |
+| Sample phishing email               | ![Email]([screenshots/Screenshot-2025-09-23-233152.jpg](https://github.com/Pranav-ai-cyber/task2-cybersecurity-phishing-analysis/blob/main/task2-cybersecurity-phishing-analysis/screenshots/Screenshot%202025-09-23%20233152.png)) |
+| EML Analyzer verdict (malicious)    | ![Analyzer1]([screenshots/Screenshot-2025-09-23-231646.jpg](https://github.com/Pranav-ai-cyber/task2-cybersecurity-phishing-analysis/blob/main/task2-cybersecurity-phishing-analysis/screenshots/Screenshot%202025-09-23%20231646.png)) |
+| Detailed message insights           | ![Analyzer2]([screenshots/Screenshot-2025-09-23-231803.jpg](https://github.com/Pranav-ai-cyber/task2-cybersecurity-phishing-analysis/blob/main/task2-cybersecurity-phishing-analysis/screenshots/Screenshot%202025-09-23%20231803.png)) |
+| VirusTotal detection result         | ![VirusTotal]([screenshots/Screenshot-2025-09-23-231156.jpg](https://github.com/Pranav-ai-cyber/task2-cybersecurity-phishing-analysis/blob/main/task2-cybersecurity-phishing-analysis/screenshots/Screenshot%202025-09-23%20231156.png)) |
 
 ## Report
 See [report.pdf](report.pdf) for detailed findings, evidence, and written answers to all task questions.
