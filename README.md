@@ -12,6 +12,13 @@ Identify and document phishing characteristics found in a suspicious email sampl
 - Online EML and threat analysis
 - VirusTotal/other threat platforms
 
+## Tools used
+ - EML Analuzer (https://analyzer.sublime.security/)
+ - VirusTotal (https://www.virustotal.com/gui/home/upload)
+
+## Tutorial
+ - Toutube (https://www.youtube.com/watch?v=vK0Vc7wRVEg)
+
 ## Screenshots
 
 | Description                        | Screenshot                                     |
